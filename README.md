@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm MD ARIF</h1>
 <h3 align="center">DSA & Backend Dev Enthusiast.</h3>
 
-- 🔭 First MERN Project [Bizstripe : The Billing Software](https://buddy-book.vercel.app/)
+- 🔭Bizstripe : The Billing Software [check now ](https://bizstripe.vercel.app/)
+- CRUD with auth0 : [check now ](https://crudwithauth0client.vercel.app/)
+- CRUD with autauthenticationh0 : [check now ](https://crudwithauthenticationclient.vercel.app/)
+- Buddy Book [BuddyBook : The Phonebook app](https://buddy-book.vercel.app/)
+- ExtraSecure : The JWT Authentication App [checknow](https://authappz.vercel.app/)
 
 - 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js**
 
-- 👯 Second MERN Project [ExtraSecure : The JWT Authentication App](https://authappz.vercel.app/)
+- 👯 
 
 - 🤝 Third Project [Weather App : Real-time Weather Information App](https://weatherwizardz.netlify.app/)
 
