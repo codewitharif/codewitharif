@@ -4,7 +4,7 @@
 - 🔭Bizstripe : The Billing Software [check now ](https://bizstripe.vercel.app/)
 - CRUD with auth0 : [check now ](https://crudwithauth0client.vercel.app/)
 - CRUD with autauthenticationh0 : [check now ](https://crudwithauthenticationclient.vercel.app/)
-- Buddy Book [BuddyBook : The Phonebook app](https://buddy-book.vercel.app/)
+- BuddyBoo : The Phonebook appk [check now](https://buddy-book.vercel.app/)
 - ExtraSecure : The JWT Authentication App [checknow](https://authappz.vercel.app/)
 - Weather App : Real-time Weather Information App [ check now ](https://weatherwizardz.netlify.app/)
 - Movie App : Download movies [ check now ](https://movieappx.vercel.app/)
