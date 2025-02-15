@@ -6,12 +6,11 @@
 - CRUD with autauthenticationh0 : [check now ](https://crudwithauthenticationclient.vercel.app/)
 - Buddy Book [BuddyBook : The Phonebook app](https://buddy-book.vercel.app/)
 - ExtraSecure : The JWT Authentication App [checknow](https://authappz.vercel.app/)
+- Weather App : Real-time Weather Information App [ check now ](https://weatherwizardz.netlify.app/)
+- Movie App : Download movies [ check now ](https://movieappx.vercel.app/)
 
 - 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js**
 
-- 👯 
-
-- 🤝 Third Project [Weather App : Real-time Weather Information App](https://weatherwizardz.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
