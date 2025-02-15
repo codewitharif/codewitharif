@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD ARIF</h1>
 <h3 align="center">DSA & Backend Dev Enthusiast.</h3>
 
-- 🔭 First MERN Project [BuddyBook : The CRUD App](https://buddy-book.vercel.app/)
+- 🔭 First MERN Project [Bizstripe : The Billing Software](https://buddy-book.vercel.app/)
 
 - 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js**
 
