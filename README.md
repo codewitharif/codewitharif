@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD ARIF</h1>
-<h3 align="center">DSA & Backend Dev Enthusiast.</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🔭Bizstripe : The Billing Software [check now ](https://bizstripe.vercel.app/)
 - CRUD with auth0 : [check now ](https://crudwithauth0client.vercel.app/)
