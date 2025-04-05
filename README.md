@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MD ARIF</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭Bizstripe : The Billing Software [check now ](https://bizstripe.vercel.app/)
+- BizStripe: ERP Billing Software for Business Management [check now ](https://bizstripe.vercel.app/)
+- MoneyTrack: Personal Finance & Budget Management [check now ](https://expensetrackerappclient.vercel.app/)
 - CRUD with auth0 : [check now ](https://crudwithauth0client.vercel.app/)
 - CRUD with autauthenticationh0 : [check now ](https://crudwithauthenticationclient.vercel.app/)
 - BuddyBoo : The Phonebook appk [check now](https://buddy-book.vercel.app/)
