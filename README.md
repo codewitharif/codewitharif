@@ -13,7 +13,20 @@
   </a>
 </p>
 
+
 ---
+
+### 🚀 About Me
+
+- 💻 I love building Full-Stack Web Applications that solve real-life problems.
+- 📱 Passionate about UI/UX and performance optimization.
+- 👨‍💻 Currently building projects using **MERN Stack** and exploring **Cloud & DevOps**.
+- 💬 Ask me about **React, Node.js, MongoDB, REST APIs, and Authentication**.
+- ⚡ Fun Fact: I believe in “Code it till you own it!”
+
+---
+
+
 
 ### 🌟 Featured Projects
 
