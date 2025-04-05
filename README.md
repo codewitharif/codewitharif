@@ -84,6 +84,9 @@ text
 🔐 2024: Learned about Authentication, API Security, and Clean Code
 📈 2025: Working on real-life impactful SaaS projects
 
+
+---
+
 ### 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/mdarif1522003)
