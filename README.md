@@ -1,26 +1,74 @@
-<h1 align="center">Hi 👋, I'm MD ARIF</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hey 👋, I'm MD ARIF</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
 
-- BizStripe: ERP Billing Software for Business Management [check now ](https://bizstripe.vercel.app/)
-- MoneyTrack: Personal Finance & Budget Management [check now ](https://expensetrackerappclient.vercel.app/)
-- CRUD with auth0 : [check now ](https://crudwithauth0client.vercel.app/)
-- CRUD with autauthenticationh0 : [check now ](https://crudwithauthenticationclient.vercel.app/)
-- BuddyBoo : The Phonebook appk [check now](https://buddy-book.vercel.app/)
-- ExtraSecure : The JWT Authentication App [checknow](https://authappz.vercel.app/)
-- Weather App : Real-time Weather Information App [ check now ](https://weatherwizardz.netlify.app/)
-- Movie App : Download movies [ check now ](https://movieappx.vercel.app/)
-
-- 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mdarif1522003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdarif1522003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/codewitharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codewitharif" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codewitharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewitharif" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/mdarif1522003" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.hackerrank.com/codewitharif" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" />
+  </a>
+  <a href="https://www.leetcode.com/codewitharif" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&style=for-the-badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewitharif&show_icons=true&locale=en&layout=compact" alt="codewitharif" /></p>
+### 🌟 Featured Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| 💼 **BizStripe** | ERP Billing Software for Business Management | [Check Now](https://bizstripe.vercel.app/) |
+| 💰 **MoneyTrack** | Personal Finance & Budget Management App | [Check Now](https://expensetrackerappclient.vercel.app/) |
+| 🔐 **CRUD with Auth0** | Full-Stack CRUD App with Auth0 Authentication | [Check Now](https://crudwithauth0client.vercel.app/) |
+| 🔐 **CRUD with JWT** | Full-Stack CRUD App with JWT Authentication | [Check Now](https://crudwithauthenticationclient.vercel.app/) |
+| 📒 **BuddyBoo** | A Phonebook App to Manage Contacts | [Check Now](https://buddy-book.vercel.app/) |
+| 🛡️ **ExtraSecure** | Secure Authentication App with JWT | [Check Now](https://authappz.vercel.app/) |
+| 🌦️ **WeatherWizard** | Real-Time Weather Information App | [Check Now](https://weatherwizardz.netlify.app/) |
+| 🎬 **MovieAppX** | Movie App to Explore & Download Films | [Check Now](https://movieappx.vercel.app/) |
+
+---
+
+### 📚 Currently Learning
+
+- MongoDB, Express.js, React.js, Node.js (MERN Stack)
+- Exploring more on Backend Security & Scalable Architectures
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewitharif&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/mdarif1522003)
+- 🧠 [HackerRank](https://www.hackerrank.com/codewitharif)
+- 🧩 [LeetCode](https://www.leetcode.com/codewitharif)
+
+---
+
+⭐️ *Thanks for visiting my profile! Drop a star if you like my work!*
