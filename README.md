@@ -78,7 +78,6 @@
 
 ### 📅 My Dev Journey
 
-text
 🌱 2022: Started learning Web Development
 🚀 2023: Built multiple MERN projects and explored UI/UX
 🔐 2024: Learned about Authentication, API Security, and Clean Code
